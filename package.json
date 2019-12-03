@@ -1,12 +1,12 @@
 {
-  "name": "knox-s3",
+  "name": "knox-ng",
   "description": "Amazon S3 client",
   "keywords": [
     "aws",
     "amazon",
     "s3"
   ],
-  "version": "0.9.5",
+  "version": "0.9.6",
   "author": "TJ Holowaychuk <tj@learnboost.com>",
   "contributors": [
     "TJ Holowaychuk <tj@learnboost.com>",
@@ -18,9 +18,9 @@
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dwjft/knox.git"
+    "url": "git://github.com/hellamps/knox-ng.git"
   },
-  "bugs": "https://github.com/dwjft/knox/issues",
+  "bugs": "https://github.com/hellamps/knox-ng/issues",
   "dependencies": {
     "mime": "^1.4.0",
     "xml2js": "^0.4.4",
