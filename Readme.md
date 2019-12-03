@@ -4,11 +4,11 @@ Node Amazon S3 Client.
 
 # IMPORTANT
 
-This is a fork of the no-longer maintained repository here: https://github.com/Automattic/knox
+This is a fork of the no-longer maintained repository here: https://github.com/Automattic/knox and https://github.com/dwjft/knox
 
-It exists solely to fix an issue with a breaking change in a dependant library.
+Another words, it is yet another no-longer maintaned repo.
 
-`npm install -s knox-s3`
+`npm install -s knox-ng`
 
 ## Features
 
